@@ -163,6 +163,7 @@ body{
     color: orange;
     font-size: 25px;
 }
+
 .about-info{
     margin-top: 10px;
     line-height: 1.5;
@@ -405,6 +406,7 @@ body{
 .fas{
     font-size: 30px;
 }
+
 @media screen and (min-width: 576px){
     .food-container{
        display: grid;
@@ -453,6 +455,7 @@ body{
 .footer{
     background:#000;
     text-align: center;
+  
 }
 .footer .text{
 text-transform: uppercase;
@@ -460,3 +463,11 @@ color: #fff;
 font-size: 24px;
 margin-top: 20px;
 }
+.footer a {
+    
+    color: #bbafaf;
+}
+.footer a:hover {
+    border-bottom: 1px solid;
+   
+  }
